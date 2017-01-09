@@ -1,0 +1,4 @@
+OPEN JAVA 
+SELECT com.example.a(YOUR ID).navigationdrawertest
+RIGHT CLICK>Java Class
+NAME NEW CLASS "FirstFragment"
